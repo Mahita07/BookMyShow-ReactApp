@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
+        "movie":"Pushpa: The Rise - Part 01",
+        "details":"2hrs 59m  .  Action/Thriller  .  UA  .  17 Dec 2021"
+    },
+
+    {
+        "id":2,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/83-et00062705-25-12-2021-02-47-08.jpg",
+        "movie":"83",
+        "details":"2h 43m  .  Drama/Sports  .  U  .  24 Dec, 2021"
+
+    },
+
+    {
+        "id":3,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/enna-solla-pogirai-et00319201-08-12-2021-12-02-31.jpg",
+        "movie":"Enna Solla Pogirai",
+        "details":"2hrs 13m  .  Comedy/Romantic  .  UA  .  13 Jan 2022"
+    },
+
+    {
+        "id":4,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kombu-vatcha-singamda-et00315136-24-09-2021-07-46-41.jpg",
+        "movie":"Kombu Vatcha Singamda",
+        "details":"2hrs 31m  .  Action/Drama .  U  .  13 Jan 2022"
+    },
+
+    {
+        "id":5,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/naai-sekar-et00320969-03-01-2022-06-07-37.jpg",
+        "movie":"Naai Sekar",
+        "details":"2hrs 13m  .  Comedy/Drama/Romantic  .  U .  13 Jan 2022"
+    },
+
+    {
+        "id":6,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/theal-et00319007-04-12-2021-11-42-59.jpg",
+        "movie":"Theal",
+        "details":"1hr 55m  .  Action/Drama  .  UA  .  14 Jan 2022"
+    },
+
+    {
+        "id":7,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bangarraju-et00316733-10-01-2022-01-52-07.jpg",
+        "movie":"Bangarraju",
+        "details":"2hrs 40m  .  Comedy/Fantasy .  UA  .  14 Jan 2022"
+    },
+    {
+        "id":8,
+        "image":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+        "movie":"Spider-Man: No Way Home",
+        "details":"2hrs 28m  .  Action/Adventure/Sci-fi  .  UA  .  16 Dec 2021"
+    }
+
+
+
+]

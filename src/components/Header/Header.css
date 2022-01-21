@@ -1,0 +1,20 @@
+.brand__logo{
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+}
+.d-flex{
+    height:35px;
+    width:600px;
+}
+.navdrop{
+    margin-left:300px;
+}
+.snav{
+    background:rgb(34, 37, 57);
+    color:white ;
+    font-size:small;
+}
+
+
+
